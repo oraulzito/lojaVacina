@@ -46,7 +46,7 @@ class Layout
                   </button>
                   <ul class="dropdown-menu" aria-labelledby="dropdownMenuButton1">';
         foreach ($categorias as $c) {
-            $layout .= ' <li><a class="dropdown-item">' . $c->nome . '</a></li>';
+            $layout .= ' <li><a class="dropdown-item" href="pesquisa.php?categoria=' . $c->id . '">' . $c->nome . '</a></li>';
         }
         $layout .= ' </ul>
                    </div>';
