@@ -77,7 +77,7 @@ class Layout
                 <div class="text-center">
                     <a href="https://ifrs.edu.br/canoas" class="link-info">2021 - IFRS Campus Canoas</a>
                     <br>
-                    <a href="https://github.com/oraulzito/web2" class="link-dark">Raul Lacerda</a>
+                    <a href="https://github.com/oraulzito" class="link-dark">Raul Lacerda</a>
                     <br>
                     <a href="contato.php" class="link-dark">Fale conosco</a>
                 </div>
